@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro.Vieria\\source\\repos\\CodingExercise\\CodingExercise.csproj": {}
+    "C:\\Users\\Pedro.Vieria\\Downloads\\CodingExerciseNet\\CodingExerciseNet\\CodingExercise\\CodingExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro.Vieria\\source\\repos\\CodingExercise\\CodingExercise.csproj": {
+    "C:\\Users\\Pedro.Vieria\\Downloads\\CodingExerciseNet\\CodingExerciseNet\\CodingExercise\\CodingExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro.Vieria\\source\\repos\\CodingExercise\\CodingExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro.Vieria\\Downloads\\CodingExerciseNet\\CodingExerciseNet\\CodingExercise\\CodingExercise.csproj",
         "projectName": "CodingExercise",
-        "projectPath": "C:\\Users\\Pedro.Vieria\\source\\repos\\CodingExercise\\CodingExercise.csproj",
+        "projectPath": "C:\\Users\\Pedro.Vieria\\Downloads\\CodingExerciseNet\\CodingExerciseNet\\CodingExercise\\CodingExercise.csproj",
         "packagesPath": "C:\\Users\\Pedro.Vieria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro.Vieria\\source\\repos\\CodingExercise\\obj\\",
+        "outputPath": "C:\\Users\\Pedro.Vieria\\Downloads\\CodingExerciseNet\\CodingExerciseNet\\CodingExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro.Vieria\\AppData\\Roaming\\NuGet\\NuGet.Config",

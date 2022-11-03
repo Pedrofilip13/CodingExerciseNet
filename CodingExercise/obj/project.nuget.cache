@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7vnd3eKwSqpZTw5g2kuTzDZqJVycx9OPdgA/cpoFIxJZDzWszZJgGib02ZU9BT1zqhRWQX3kPfHynOhiO6KxFQ==",
+  "dgSpecHash": "tMABOjuPxGDBcvU6ngM/u0PudgwFHNoRdKraaMt/RhahAImP98uDOZHS9FEyCf6vn2AH5dqJpAsH4x7XtmEgjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pedro.Vieria\\source\\repos\\CodingExercise\\CodingExercise.csproj",
+  "projectFilePath": "C:\\Users\\Pedro.Vieria\\Downloads\\CodingExerciseNet\\CodingExerciseNet\\CodingExercise\\CodingExercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pedro.Vieria\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Pedro.Vieria\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
